@@ -13,25 +13,21 @@ This repository contains resources and instructions for configuring and verifyin
 
 In this section, you will find instructions and configurations for setting up OSPF on Cisco routers. Follow the steps provided to configure OSPF routing protocol.
 
-**[Link to Setup OSPF Documentation](setup-ospf.md)**
 
 ## 2. Router ID and Priority
 
 Learn how to set Router ID and Priority values in OSPF. Understanding these concepts is essential for proper OSPF operation.
 
-**[Link to Router ID and Priority Documentation](router-id-and-priority.md)**
 
 ## 3. OSPF Load Balancing
 
 Explore the techniques and configurations for achieving load balancing in OSPF. Load balancing helps distribute network traffic effectively.
 
-**[Link to OSPF Load Balancing Documentation](ospf-load-balancing.md)**
 
 ## 4. Configure and Verify OSPF Operation using Cisco Packet Tracer
 
 Utilize Cisco Packet Tracer, a network simulation tool, to practice and verify OSPF configurations.
 
-**[Link to Packet Tracer OSPF Lab](packet-tracer-ospf-lab.md)**
 
 ## Author
 
