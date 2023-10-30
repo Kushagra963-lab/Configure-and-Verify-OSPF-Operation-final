@@ -33,10 +33,6 @@ Utilize Cisco Packet Tracer, a network simulation tool, to practice and verify O
 
 **[Link to Packet Tracer OSPF Lab](packet-tracer-ospf-lab.md)**
 
-## Contributing
-
-If you'd like to contribute to this project by adding more content, fixing issues, or enhancing the documentation, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
-
 ## Author
 
 - **Author Name**: Kushagra Singh Gaur
