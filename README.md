@@ -42,10 +42,6 @@ If you'd like to contribute to this project by adding more content, fixing issue
 - **Author Name**: Kushagra Singh Gaur
 - **Email**: kushagrasingh.gaur2022@vitstudent.ac.in
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it according to the terms of the license.
-
 ## Acknowledgments
 
 We'd like to thank the Cisco Packet Tracer community and all contributors for their support in creating and maintaining this resource.
